@@ -1,0 +1,9 @@
+{
+    "license_key": "FELIX-VIP-2026",
+    "host": "YOUR_LINUX_SERVER_IP",
+    "username": "ubuntu",
+    "password": "YOUR_SERVER_PASSWORD",
+    "remote_root": "/var/www/yourproject",
+    "registered_ip": "127.0.0.1",
+    "hardware_id": "HOSTNAME-MAC-UUID-EXAMPLE"
+}
